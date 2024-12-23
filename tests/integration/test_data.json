@@ -1,0 +1,62 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "Exploring the Depths of Technology",
+    "body": "Technology evolves rapidly, shaping industries and societies. Embracing new trends can be both challenging and exciting."
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "The Future of Artificial Intelligence",
+    "body": "AI is transforming various sectors, making processes more efficient. Its potential continues to grow, promising new possibilities for innovation."
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "Navigating Change in the Workplace",
+    "body": "Adapting to new environments and learning to work with diverse teams is crucial for success in today's workplace."
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "Sustainability in Modern Development",
+    "body": "As environmental concerns grow, sustainable development practices have become vital to long-term progress in urban planning and business strategies."
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "title": "Breaking Barriers in Global Communication",
+    "body": "Global communication tools have revolutionized how we interact, creating endless opportunities for collaboration and networking."
+  },
+  {
+    "userId": 1,
+    "id": 6,
+    "title": "Mental Health in the Digital Age",
+    "body": "With the increasing use of digital platforms, managing mental health has become more critical than ever. Strategies to cope with digital overload are essential."
+  },
+  {
+    "userId": 1,
+    "id": 7,
+    "title": "The Role of Innovation in Education",
+    "body": "Innovative teaching methods are transforming education, making learning more engaging and accessible to people of all backgrounds."
+  },
+  {
+    "userId": 1,
+    "id": 8,
+    "title": "Health and Wellness: A Holistic Approach",
+    "body": "Achieving overall wellness involves not just physical health but also mental and emotional well-being. A balanced lifestyle can improve quality of life."
+  },
+  {
+    "userId": 1,
+    "id": 9,
+    "title": "Economic Trends in a Changing World",
+    "body": "The global economy is constantly shifting. Understanding current economic trends helps businesses and individuals make informed decisions."
+  },
+  {
+    "userId": 1,
+    "id": 10,
+    "title": "The Power of Positive Thinking",
+    "body": "Optimism and positive thinking can have profound effects on mental health, productivity, and overall happiness. Embracing positivity is a powerful tool for success."
+  }
+]
