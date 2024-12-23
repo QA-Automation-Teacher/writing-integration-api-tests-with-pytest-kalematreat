@@ -1,8 +1,6 @@
 import requests
 import json
 import pytest
-import time
-import logging
 import csv
 
 # BASE_URL = "http://localhost:5000"
@@ -56,8 +54,7 @@ def log_result_to_file(test_name, method, endpoint, status_code, result, message
         writer.writerow([test_name, method, endpoint, status_code, result, message])
 
 
-logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(__name__)
+
 def test_get_posts(BASE_URL, resources):
     # response = requests.get(f"{BASE_URL}/posts")
     response = requests.get(f"{BASE_URL}/{resources}")
